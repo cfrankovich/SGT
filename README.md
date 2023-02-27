@@ -1,0 +1,2 @@
+# SGT
+Simple GraphicalProcessing Translator
